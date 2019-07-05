@@ -6,6 +6,8 @@ Ash.
 Mark.   
 Monika.
 Prathiba
+this is added in R studio. click File - Save
+will save it to github
 
 ## Topics
 Headings   
