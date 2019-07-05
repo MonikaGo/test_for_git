@@ -2,7 +2,7 @@
 Held at the Fawkes Training Room on 5th November from 13:00 to 17:00  
 <a name="TheTop"></a>
 ### Trainers
-ID DOES NOT WORK
+ID DOES NOT WORK - change
 Ash.    
 Mark.   
 Monika.
